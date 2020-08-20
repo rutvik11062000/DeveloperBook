@@ -1,0 +1,3 @@
+{
+    "mongoURI":"mongodb+srv://rutvik321:rutvik321@mernstack.raowj.mongodb.net/MernStack?retryWrites=true&w=majority"
+}
